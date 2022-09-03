@@ -1,3 +1,3 @@
 # git_test
-1st github repo isnt it
+1st github
 Hello Odin!
